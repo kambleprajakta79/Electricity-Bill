@@ -1,3 +1,5 @@
+The main objective of the Electricity Billing System is to manage the details of customers and electricity bill. It manages all the information about customers and bills.
+
 create tables:
 	-1)customers:
 		-customer_id (Primary Key)
